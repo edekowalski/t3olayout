@@ -1,0 +1,7 @@
+###
+### PageTS for t3olayout
+###
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t3olayout/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t3olayout/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t3olayout/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:t3olayout/Configuration/PageTS/mod/WebLayout/RTE/BackendLayouts.txt">
